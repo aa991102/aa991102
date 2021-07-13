@@ -5,13 +5,13 @@
 <br/><br/>
 
 ### 😊 익숙한 아이들
-![windows](./icons/windows.png) ![apache-tomcat](./icons/apache-tomcat.png) ![mysql](./icons/mysql.png) ![spring](./icons/spring.png) ![java](./icons/java.png) ![html5](./icons/html5.png) ![css3](./icons/css3.png) ![javascript](./icons/javascript.png) ![jquery](./icons/jquery.png)
+![java](./icons/java.png) ![windows](./icons/windows.png) ![apache-tomcat](./icons/apache-tomcat.png) ![spring](./icons/spring.png) ![mysql](./icons/mysql.png) ![html5](./icons/html5.png) ![css3](./icons/css3.png) ![javascript](./icons/javascript.png) ![jquery](./icons/jquery.png)
 
 ### 🤔 아직 어색한 아이들
-![python](./icons/python.png) ![tensorflow](./icons/tensorflow.png) ![hadoop](./icons/hadoop.png) ![oracle](./icons/.png)
+![python](./icons/python.png) ![tensorflow](./icons/tensorflow.png) ![oracle](./icons/oracle.png) ![hadoop](./icons/hadoop.png)
 
 ### 🤩 친해지고 싶은 아이들
-![linux](linux./icons/.png) ![android](./icons/android.png)
+![linux](./icons/linux.png) ![android](./icons/android.png)
 
 <br/><br/>
 
