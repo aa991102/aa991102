@@ -1,7 +1,10 @@
-## ☁ 꿈꾸는 개발자: 오지영 ☁
-저는 <strong>잭의 콩 새싹🌱</strong>입니다.<br/>
-오늘도 구름에 닿기 위해 <strong>배움📖</strong>을 주고 있어요
-<br/><br/>
+## 목표 : 멋있는 사람😎
+저는 이런 사람이 되고싶습니다 :<br>
+<strong>"어떤 일을 맡겨도 결국 해내는 사람"</strong><br>
+<strong>"믿고 일을 맡길 수 있는 사람"</strong><br><br>
+오늘도 목표를 향해 열심히 달리고 있습니다!<br>
+
+- 현재 진행 중인 프로젝트: myver(네이버 클론 프로젝트)<br>
 
 ### 😊 익숙한 아이들
 ![java](./icons/java.png) ![windows](./icons/windows.png) ![apache-tomcat](./icons/apache-tomcat.png) ![spring](./icons/spring.png) ![mysql](./icons/mysql.png) ![html5](./icons/html5.png) ![css3](./icons/css3.png) ![javascript](./icons/javascript.png) ![jquery](./icons/jquery.png)
