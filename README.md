@@ -6,8 +6,15 @@
 <br><br>
 
 ### 💻 현재 진행 중인 프로젝트
-- [Myver: 네이버 클론 사이트 개발 프로젝트(개인)](https://github.com/aa991102/myver)
-<br><br>
+> [Myver](https://github.com/aa991102/myver) : 네이버 클론 사이트 개발 프로젝트(개인)
+
+<br>
+
+### 💾 진행 완료한 프로젝트
+> [Kospiece](https://github.com/aa991102/kospiece) : 코스피 200기업을 시각화(Map)한 주식 커뮤니티 웹 사이트 개발 프로젝트(팀)<br>
+> [Allight](https://github.com/aa991102/allight) : 다이어트 관리(다이어리 & 커뮤니티 & 칼로리 사전 & 쇼핑) 웹 사이트 개발 프로젝트(팀)
+
+<br>
 
 ### ✍ 개발 스킬 및 환경
 - Front-End<br>
@@ -19,9 +26,11 @@
 - Infra<br>
 ```Apache-Tomcat```
 - Tools<br>
-```GitHub``` 
-<br>
+```Github``` 
 
+  ![java](./icons/java.png) ![windows](./icons/windows.png) ![apache-tomcat](./icons/apache-tomcat.png) ![spring](./icons/spring.png) ![mysql](./icons/mysql.png) ![html5](./icons/html5.png) ![css3](./icons/css3.png) ![javascript](./icons/javascript.png) ![jquery](./icons/jquery.png)
+
+<!--
 - 😊 익숙한 아이들<br>
 ![java](./icons/java.png) ![windows](./icons/windows.png) ![apache-tomcat](./icons/apache-tomcat.png) ![spring](./icons/spring.png) ![mysql](./icons/mysql.png) ![html5](./icons/html5.png) ![css3](./icons/css3.png) ![javascript](./icons/javascript.png) ![jquery](./icons/jquery.png)
 
@@ -32,5 +41,7 @@
 ![linux](./icons/linux.png) ![android](./icons/android.png)
 
 <br/><br/>
+-->
 
+<br>
 <div>아이콘 제작자 <a href="https://www.freepik.com" title="Freepik">Freepik</a> and <a href="https://smashicons.com/" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/kr/" title="Flaticon">www.flaticon.com</a></div>
