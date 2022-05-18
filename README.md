@@ -13,7 +13,7 @@
 <br>
 
 ### 💻 기록
-```2022.05 ~ 현재``` : CJ대한통운 차세대 택배 시스템 프로젝트 - 프론트 개발  
+```2022.05 ~ 현재``` : CJ대한통운 차세대 택배 시스템 구축 프로젝트 - 프론트 개발  
 ```2021.11 ~ 2022.04``` : 대우건설 모바일 재구축 프로젝트 - 프론트 개발  
 ```2021.09 ~ 현재``` : [뱅가드랩](http://www.vanguardlab.net) 입사  
 <!-- ```2021.04 ~ 현재``` : [Myver](https://github.com/aa991102/myver) : 쪽지, 블로그 서비스를 제공하는 웹 사이트(개인) --> 
@@ -31,7 +31,7 @@
 - Infra<br>
 ```Apache-Tomcat```
 - Tools<br>
-```Github``` 
+```Github``` ```SVN```
 
   ![java](./icons/java.png) ![windows](./icons/windows.png) ![apache-tomcat](./icons/apache-tomcat.png) ![spring](./icons/spring.png) ![mysql](./icons/mysql.png) ![html5](./icons/html5.png) ![css3](./icons/css3.png) ![javascript](./icons/javascript.png) ![jquery](./icons/jquery.png)
 
